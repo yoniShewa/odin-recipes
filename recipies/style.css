@@ -35,3 +35,9 @@ h1{
     font-size: 2.5em;
     margin: 2%;
 }
+
+.container {
+    display: flex;
+    gap: 3em;
+}
+
