@@ -41,3 +41,16 @@ h1{
     gap: 3em;
 }
 
+.inner-container{
+    display: flex;
+    justify-content: space-between;
+    gap: 50px;
+}
+
+.inner-container div{
+    flex: 1;
+}
+
+.group{
+    flex: 1;
+}
