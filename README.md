@@ -1,1 +1,1 @@
-This repo is a bout diffrent recipies
+This repo is about diffrent recipies
